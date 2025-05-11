@@ -1,0 +1,11 @@
+sounddevice==0.4.6
+numpy<2.0
+SpeechRecognition==3.10.1
+speechrecognition 
+pyaudio
+webrtcvad
+requests
+beautifulsoup4
+elevenlabs
+googlesearch-python
+setuptools
